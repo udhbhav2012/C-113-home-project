@@ -1,0 +1,28 @@
+html
+{
+    background-color: lightblue;
+}
+body
+{
+    background-color:yellowgreen;
+    font-family: fantasy;
+}
+#color_name
+{
+    background-color: yellow;
+    font-family: sans-serif;
+}
+#filter_button
+{
+    background-color: navy;
+    color: white;
+}
+defaultCanvas0
+{
+    border: green dashed;
+}
+#take_snapshot_button
+{
+    background-color:magenta;
+    font-family: cursive;
+}
